@@ -8,21 +8,34 @@ This project aims to analyze and predict employee attrition and layoff trends us
 **Repository Structure**
 
 📂 Employee_Attrition_Prediction
+ 
  ├── 📁 data                     # Raw and processed datasets
+ 
  ├── 📁 notebooks                # Jupyter Notebooks for data preprocessing and modeling
+ 
  ├── 📁 models                   # Trained machine learning models
+ 
  ├── 📁 reports                  # Analysis reports and presentations
+ 
  ├── 📁 scripts                  # Python scripts for data processing and model training
+ 
  ├── 📄 README.md                # Project documentation (this file)
+ 
  ├── 📄 requirements.txt         # Required Python libraries
+ 
  ├── 📄 LICENSE                  # Licensing information
  
 **Dataset Overview**
 
+
 Source: Public HR datasets (Kaggle, Glassdoor, LinkedIn Analytics)
+
 Format: CSV, JSON
+
 Size: ~500MB
+
 Number of Records: ~100,000 employee data points
+
 Features:Employee ID, Age, Gender, Job Role, Department, Salary, Work Experience
 Work-Life Balance, Job Satisfaction Score, Layoff Reason, Attrition Type, etc.
 
@@ -80,7 +93,9 @@ Recommendations for HR strategies to reduce turnover.
 **Contributors**
 
 Rashi Meda
+
 University of Hertfordshire
+
 Supervisor: William Alston
 
 **License**
